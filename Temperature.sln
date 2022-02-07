@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Temperature", "Temperature\Temperature.vcxproj", "{83FA666A-8BF6-42CD-9047-F307F721EFBF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Types", "Types\Types.vcxproj", "{1CFCE485-BBEB-4B55-A5A0-42002406A504}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{83FA666A-8BF6-42CD-9047-F307F721EFBF}.Release|x64.Build.0 = Release|x64
 		{83FA666A-8BF6-42CD-9047-F307F721EFBF}.Release|x86.ActiveCfg = Release|Win32
 		{83FA666A-8BF6-42CD-9047-F307F721EFBF}.Release|x86.Build.0 = Release|Win32
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Debug|x64.ActiveCfg = Debug|x64
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Debug|x64.Build.0 = Debug|x64
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Debug|x86.Build.0 = Debug|Win32
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Release|x64.ActiveCfg = Release|x64
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Release|x64.Build.0 = Release|x64
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Release|x86.ActiveCfg = Release|Win32
+		{1CFCE485-BBEB-4B55-A5A0-42002406A504}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
