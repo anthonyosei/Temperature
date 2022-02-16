@@ -11,7 +11,7 @@ int main(int argc, char** argv)
 	cout << "size of unsigned long int: " << sizeof(unsigned long int) << " bytes " << endl;
 	cout << "Size of float : " << sizeof(float) << " bytes" << endl;
 	cout << "Size of double : " << sizeof(double) << " bytes" << endl;
-	cout << " size of long double : " << sizeof(long double) << "bytes" << endl;
+	cout << "size of long double : " << sizeof(long double) << "bytes" << endl;
 
 	return 0;
 
